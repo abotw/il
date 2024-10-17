@@ -27,8 +27,8 @@ schedule:
   - name: Saturday
   - name: Sunday
     events:
-      - name:信息素养省赛淘汰赛
+      - name:test
         start: 15:30 AM
         end: 17:00 AM
-        location: 图书馆读书协会办公室
+        location: test
 ---
