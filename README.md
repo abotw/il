@@ -112,7 +112,7 @@ seo:
 		- [示例](https://journal06.magtechjournal.com/Jwk3_yyyzlt/fileup/2096-045X/ITEM/20160617084855.pdf)
 	- 参考文献类型标志 / 文献标识符
 
-![[Pasted image 20241019101926.png]]
+![[assets/Pasted image 20241019101926.png]]
 
 | 著录类型       | 标识代码 | 英文单词                    |
 | -------------- | -------- | ---------------------------- |
