@@ -17,16 +17,20 @@ seo:
 1. TOC
 {:toc}
 
-- [关于举办2024年大学生信息素养大赛安徽赛区省赛的通知](./assets/关于举办2024年大学生信息素养大赛省赛淘汰赛阶段线上培训的通知.pdf)
-- [关于举办2024年大学生信息素养大赛省赛淘汰赛阶段线上培训的通知](./assets/关于举办2024年大学生信息素养大赛省赛淘汰赛阶段线上培训的通知.pdf)
-- [2024 年大学生信息素养大赛校内选拔赛命题范围及备赛建议](assets/2024年版命题范围及备赛建议（10.8终版）.pdf)
-- [2024年大学生信息素养大赛省赛淘汰赛赛前培训资料](https://csc.xxsuyang.com/match/info?id=4d577cc3-d66f-4b07-afcc-11dd1aa4af08&type=1)
-	- [2024年省赛淘汰赛阶段培训-赛程赛制](https://static.zxhnzq.com/zsjs/prod/file/0DFFAC507AE62107FF90A4E9C875B886.pdf "2024年省赛淘汰赛阶段培训-赛程赛制.pdf")
-	- [2024年大赛省赛淘汰赛阶段培训-平台使用](https://static.zxhnzq.com/zsjs/prod/file/46B03AA2BA352F513EA9D13CAE2443F6.pdf "2024年大赛省赛淘汰赛阶段培训-平台使用.pdf")
+## 0. Quicklinks
+
+- [大学生信息素养大赛](https://csc.xxsuyang.com/)
 
 ---
 
-- [大学生信息素养大赛](https://csc.xxsuyang.com/)
+- 省赛：[关于举办2024年大学生信息素养大赛安徽赛区省赛的通知](./assets/关于举办2024年大学生信息素养大赛省赛淘汰赛阶段线上培训的通知.pdf)
+	- 省赛淘汰赛：[关于举办2024年大学生信息素养大赛省赛淘汰赛阶段线上培训的通知](./assets/关于举办2024年大学生信息素养大赛省赛淘汰赛阶段线上培训的通知.pdf)
+- 考纲
+	- [Web](https://csc.xxsuyang.com/study?type=1)
+	- PDF: [2024 年大学生信息素养大赛命题范围及备赛建议](assets/2024年版命题范围及备赛建议（10.8终版）.pdf)
+- 赛制：[2024年大学生信息素养大赛省赛淘汰赛赛前培训资料](https://csc.xxsuyang.com/match/info?id=4d577cc3-d66f-4b07-afcc-11dd1aa4af08&type=1)
+	- [2024年省赛淘汰赛阶段培训-赛程赛制](https://static.zxhnzq.com/zsjs/prod/file/0DFFAC507AE62107FF90A4E9C875B886.pdf "2024年省赛淘汰赛阶段培训-赛程赛制.pdf")
+	- [2024年大赛省赛淘汰赛阶段培训-平台使用](https://static.zxhnzq.com/zsjs/prod/file/46B03AA2BA352F513EA9D13CAE2443F6.pdf "2024年大赛省赛淘汰赛阶段培训-平台使用.pdf")
 
 ## 1. 政府开放信息资源
 
@@ -34,26 +38,7 @@ seo:
 - [国家知识产权局](https://www.cnipa.gov.cn/) China National Intellectual Property Administration
 - 国知局专利公布公告系统
 
-## 2. 实用学习资源
-
-- MOOC
-	- [中国大学 MOOC](https://www.icourse163.org/)
-	- [学堂在线](https://www.xuetangx.com) 
-	- [智慧树](https://www.zhihuishu.com/)
-	- [学银在线](https://www.xueyinonline.com/)
-	- [edX](https://www.edx.org/)
-	- [国家高等教育智慧教育平台](https://higher.smartedu.cn/)
-	- [国家职业教育智慧教育平台](https://vocational.smartedu.cn/)
-	- [国家虚拟仿真实验教学课程共享平台](https://www.ilab-x.com/)
-- 实用视频
-	- [高校信息素养教育数据库](https://xxsuyang.com/)
-	- [B 站](https://www.bilibili.com)
-	- [网易公开课](https://open.163.com)
-	- [一席](https://www.yixi.tv) 
-	- [小红书](https://www.xiaohongshu.com)
-	- [万方视频知识服务系统](https://video.wanfangdata.com.cn/)
-
-## 3. 学术信息资源 & 信息检索理论与技术
+## 2. 信息检索理论与技术 & 学术信息资源
 
 - 国内
 	- [CNKI](https://www.cnki.net)
@@ -107,33 +92,17 @@ seo:
 - [国家社科基金项目数据库 ](http://fz.people.com.cn/skygb/sk/index.php/index/index/4541)
 - [国家自然科学基金大数据知识管理服务门户](https://kd.nsfc.cn/)
 
-## 4. 知识管理工具
+## 3. 科研工具
 
-- 思维导图
-	- **[百度脑图](https://naotu.baidu.com/home) —— 出题点**
-	- XMind
-	- 幕布
-	- MindMaster
-	- MindManager
-- 笔记
-	- [有道云笔记](https://note.youdao.com)
-	- 印象笔记
-	- 为知笔记
-- 问卷平台
-	- [问卷星](https://www.wjx.cn)
-- PDF
-	- [万彩办公大师](http://www.wofficebox.com)
-- Office 插件
-	- Word：小恐龙公文助手
-	- Excel：方方格子
-	- **PPT —— 出题点**
-		- **iSlide**
-		- **雨课堂**
-- 字体识别
-	- [求字体](https://www.qiuziti.com/)
-	- [识字体](https://www.likefont.com/)
+学术评价工具 具体要求： 1、掌握影响因子、H 指数的含义及计算（主要出题点）。 2、能够判断一本期刊/一篇文章是不是在 CSSCI、北大核心、CSCD 收录范围内（主要出 题点）。 学习指导及备赛建议： 1、影响因子的计算、H 指数的判断，找点教程，一定要学会。 2、判断是不是 CSSCI、北大核心、CSCD，CNKI 中通过搜索即可搞定。比如：输入期刊 名或文章名，勾选 CSSCI，看能否找到。
 
-## 5. 学术写作
+文献管理工具 具体要求： 1、了解常用的文献管理工具，如 Mendeley、EndNote、NoteExpress、Zotero、知网研学系 统。 2、掌握 Mendeley 的常用功能。（主要出题点） 学习指导及备赛建议： 1、Mendeley 是免费工具，请安装 Mendeley Reference Manager 后深度体验。 2、其他几个文献管理工具，至少要了解哪些是免费的。
+
+具体要求： 1. 了解文献追踪的含义：跟踪期刊、学科、机构、学者的最新科研成果。 2. 了解常用的文献追踪方式：邮箱订阅、主题订阅和 RSS。 3. 掌握 PUBMED 的文献追踪方式。（主要出题点） 4. 掌握 CNKI 的文献追踪方式。（主要出题点） 5. 掌握万方数据库的文献追踪方式。（主要出题点） 6. 了解 RSS 阅读器以及基于 RSS 插件追踪文献的操作方法。 学习指导及备赛建议： 1. 在 CNKI 的检索结果页面，点击“主题定制”即可跟踪该主题，在 CNKI 首页中“我的 CNKI”中即可查看；在 CNKI 的期刊详情页面，点击“rss 订阅”即可看到该期刊的 RSS 地 址。 2. 在 PUBMED（ https://pubmed.gov ）检索结果页面，检索框下方有“CREATE RSS”和 “CREATE ALTER”选项，点击根据提示操作即可（请提前注册）。 3. 在万方数据库首页登录个人账号（请提前注册）， 网页右上角在“学习中心”中使用 “我的订阅”，包含期刊订阅、关键词订阅、RSS 订阅。
+
+具体要求： 1、了解文献可视化（知识图谱）工具，如 CITESPACE、VOSVIEWER。 2、熟练掌握 CNKI、万方、维普的文献可视化分析功能（主要出题点）。 学习指导及备赛建议： 1、要求中提到的工具和功能，最好实质性用一下。 2、从备赛的角度，SATI、CITESPACE、VOSVIEWER 这三个工具，知道是做什么的即 可。 3、分别在 CNKI、万方、维普选择一个检索词，然后在检索结果页面找到文献分析功能， 进行实质性体验。
+
+## 4. 学术写作
 
 - [国标 GB/T 7714-2015《信息与文献 参考文献著录规则》](https://journal.ustc.edu.cn/uploadfile/yjsjy/20161108/GB%20T%207714-2015%E4%BF%A1%E6%81%AF%E4%B8%8E%E6%96%87%E7%8C%AE-%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E8%91%97%E5%BD%95%E8%A7%84%E5%88%99.pdf)
 	- [全国标准信息公共服务平台](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A)
@@ -180,7 +149,10 @@ seo:
 
 > 使用生成式人工智能生成的内容，特别是涉及事实和观点等关键内容的，应明确标注并说明其生成过程，确保真实准确和尊重他人知识产权。对其他作者已标注为人工智能生成内容的，一般不应作为原始文献引用，确需引用的应加以说明。
 
-## 6. 信息检索系统
+
+
+
+## 5. 信息检索系统
 
 - OPAC (**O**nline **P**ublic **A**ccess **C**atalog, 联机公共目录检索系统), 图书馆馆藏查询系统
 	- 索书号（[简介](https://lib.bfsu.edu.cn/info/71501.jspx)）
@@ -215,7 +187,53 @@ seo:
 	- 巨量算数
 	- 360 趋势
 
-## 7. AI
+
+## 6. 实用学习资源
+
+- MOOC
+	- [中国大学 MOOC](https://www.icourse163.org/)
+	- [学堂在线](https://www.xuetangx.com) 
+	- [智慧树](https://www.zhihuishu.com/)
+	- [学银在线](https://www.xueyinonline.com/)
+	- [edX](https://www.edx.org/)
+	- [国家高等教育智慧教育平台](https://higher.smartedu.cn/)
+	- [国家职业教育智慧教育平台](https://vocational.smartedu.cn/)
+	- [国家虚拟仿真实验教学课程共享平台](https://www.ilab-x.com/)
+- 实用视频
+	- [高校信息素养教育数据库](https://xxsuyang.com/)
+	- [B 站](https://www.bilibili.com)
+	- [网易公开课](https://open.163.com)
+	- [一席](https://www.yixi.tv) 
+	- [小红书](https://www.xiaohongshu.com)
+	- [万方视频知识服务系统](https://video.wanfangdata.com.cn/)
+
+## 7. 知识管理工具
+
+- 思维导图
+	- **[百度脑图](https://naotu.baidu.com/home) —— 出题点**
+	- XMind
+	- 幕布
+	- MindMaster
+	- MindManager
+- 笔记
+	- [有道云笔记](https://note.youdao.com)
+	- 印象笔记
+	- 为知笔记
+- 问卷平台
+	- [问卷星](https://www.wjx.cn)
+- PDF
+	- [万彩办公大师](http://www.wofficebox.com)
+- Office 插件
+	- Word：小恐龙公文助手
+	- Excel：方方格子
+	- **PPT —— 出题点**
+		- **iSlide**
+		- **雨课堂**
+- 字体识别
+	- [求字体](https://www.qiuziti.com/)
+	- [识字体](https://www.likefont.com/)
+
+## 8. AI
 
 - Kimi
 - 文心一言
